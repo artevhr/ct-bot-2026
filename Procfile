@@ -1,2 +1,1 @@
-[run]
-command = python bot.py
+worker: python bot.py
